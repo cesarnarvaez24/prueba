@@ -6,10 +6,14 @@
 package clasecuatro;
 
 public class ClaseCuatro {
-
+    
+    
 
     public static void main(String[] args) {
-     
+     int numero = 0;
+     int numeroDos=0;
+        
+        System.out.println("hola");
     }
     
 }
